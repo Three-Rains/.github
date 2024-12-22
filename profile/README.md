@@ -1,4 +1,5 @@
 # Three Rain 🌧️🌧️🌧️
+<img src="https://avatars.githubusercontent.com/u/190001878?s=200&v=4" />
 
 ## 프로젝트 소개 🚀
 
