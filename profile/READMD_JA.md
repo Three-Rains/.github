@@ -1,6 +1,9 @@
 # Three Rain 🌧️🌧️🌧️
 <img width="120" src="https://avatars.githubusercontent.com/u/190001878?s=200&v=4" />
 
+- [한국어 🇰🇷](https://github.com/Three-Rains/.github/blob/main/profile/README.md)  
+- [日本語 🇯🇵](https://github.com/Three-Rains/.github/blob/main/profile/READMD_JA.md)  
+
 ## プロジェクト紹介 🚀
 
 ### ソフトウェア開発 💻
